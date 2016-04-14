@@ -1,0 +1,6 @@
+framework module Pods_alexRepo_Example {
+  umbrella header "Pods-alexRepo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

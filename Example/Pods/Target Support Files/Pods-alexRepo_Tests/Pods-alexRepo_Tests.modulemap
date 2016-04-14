@@ -1,0 +1,6 @@
+framework module Pods_alexRepo_Tests {
+  umbrella header "Pods-alexRepo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

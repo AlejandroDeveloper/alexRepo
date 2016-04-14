@@ -1,0 +1,14 @@
+PODS:
+  - alexRepo (0.1.0)
+
+DEPENDENCIES:
+  - alexRepo (from `../`)
+
+EXTERNAL SOURCES:
+  alexRepo:
+    :path: ../
+
+SPEC CHECKSUMS:
+  alexRepo: f98a4b4f4744390f91524ffdda8bfeafd6700774
+
+COCOAPODS: 0.39.0

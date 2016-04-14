@@ -1,0 +1,6 @@
+framework module alexRepo {
+  umbrella header "alexRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}
