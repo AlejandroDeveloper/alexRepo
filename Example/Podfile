@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'alexRepo_Example', :exclusive => true do
+  pod 'alexRepo', :path => '../'
+end
+
+target 'alexRepo_Tests', :exclusive => true do
+  pod 'alexRepo', :path => '../'
+
+  
+end
